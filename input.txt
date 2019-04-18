@@ -1,0 +1,5 @@
+.input a b c d e f
+.output x, y, z
+.1 (b' + c)(a + c' + d)
+.2 abcdef + abcdef' + c'd'e'
+.3 (a' + b + d)(b' + d' + f)(a)(c')(d' + f')
